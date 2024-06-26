@@ -1,0 +1,4 @@
+services:
+  web:
+    external_links:
+      - "ddev-router:api-example.ddev.site"
